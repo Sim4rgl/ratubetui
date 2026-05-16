@@ -212,6 +212,3 @@ The screen has four zones. The focused pane has a **cyan** border.
 | stuck on `loading…`                     | open an issue with the last few lines of the status bar              |
 | linker errors when building             | you're in Git Bash — rebuild from PowerShell                         |
 
-## License
-
-MIT.
