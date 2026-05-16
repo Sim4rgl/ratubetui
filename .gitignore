@@ -1,0 +1,21 @@
+# Build output
+/target
+
+# Local debug artifacts (from src/bin/diag.rs runs)
+/diag_out.txt
+/diag_err.txt
+
+# Editor / IDE
+/.idea
+/.vscode
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude Code local settings (not for sharing)
+/.claude
+
+# Saved playlists if anyone runs ytui from this directory
+/playlist.json
